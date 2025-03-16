@@ -1,4 +1,4 @@
-# Kurikulum Nuxt dengan TypeScript
+# Kurikulum Nuxt Frontend
 
 ## Modul 1: Dasar-dasar Nuxt dan TypeScript
 - Pengenalan Nuxt.js dan ekosistem Vue
